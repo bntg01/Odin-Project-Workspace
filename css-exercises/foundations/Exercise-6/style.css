@@ -1,0 +1,20 @@
+.para{
+    color: red;
+}
+.para.small-para{
+    font-size: 10px;
+}
+#confirm-button{
+    background-color: green;
+    color: white;
+}
+#cancel-button{
+    background-color: white;
+}
+.text{
+    color: green;
+}
+.text .text.child{
+    color: red;
+    font-size: 10px;
+}
